@@ -2,6 +2,8 @@
 
 Welcome to **WhatsApp Chat Analyzer**! This application helps you visualize and analyze your WhatsApp chats effortlessly. Optimize your group's communication, track chat activities, visualize common words, emojis, and more!
 
+## Live Link is at the bottom
+
 ## 🚀 Steps to Get Started
 
 ### 📤 **Upload Your Chat File:**
